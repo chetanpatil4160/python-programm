@@ -1,1 +1,1 @@
-i have solve some basic python programm
+I have solve some basic python programm
